@@ -1,4 +1,4 @@
-# Ethical Mirror 🪞 (Fully Offline Privacy Risk Dashboard)
+# Privacy Mirror 🪞 (Fully Offline Privacy Risk Dashboard)
 
 **Ethical Mirror** is a **local-only** tool that shows what a “random company” could infer about you from **your own** emails, notes, and browsing history — while keeping everything **offline**, on your machine.
 
